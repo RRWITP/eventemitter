@@ -6,7 +6,7 @@
     "type": "library",
     "description": "This is an Event Emitter equivalent to Node.js' Event Emitter.",
     "keywords": [ "events", "event", "emitter", "eventemitter" ],
-    "homepage": "https://github.com/sylae/EventEmitter",
+    "homepage": "https://github.com/valzargaming/EventEmitter",
     "license": "Apache-2.0",
     "authors": [
         {
