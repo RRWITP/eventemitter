@@ -1,5 +1,5 @@
 {
-    "name": "sylae/eventemitter",
+    "name": "valzargaming/eventemitter",
 	"replace": {
         "charlottedunois/eventemitter": "self.version"
     },
@@ -14,8 +14,8 @@
             "email": "github@charuru.moe"
         },
         {
-            "name": "Keira Dueck",
-            "email": "sylae@calref.net",
+            "name": "Valithor Obsidion",
+            "email": "valzargaming@gmail.com",
             "role": "Maintainer"
         }
     ],
